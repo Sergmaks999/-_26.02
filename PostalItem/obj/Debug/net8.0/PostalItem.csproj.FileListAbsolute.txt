@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PostalItem\PostalItem\bin\Debug\net8.0\PostalItem.exe
+C:\Users\User\source\repos\PostalItem\PostalItem\bin\Debug\net8.0\PostalItem.deps.json
+C:\Users\User\source\repos\PostalItem\PostalItem\bin\Debug\net8.0\PostalItem.runtimeconfig.json
+C:\Users\User\source\repos\PostalItem\PostalItem\bin\Debug\net8.0\PostalItem.dll
+C:\Users\User\source\repos\PostalItem\PostalItem\bin\Debug\net8.0\PostalItem.pdb
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\PostalItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\PostalItem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\PostalItem.AssemblyInfo.cs
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\PostalItem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\PostalItem.dll
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\refint\PostalItem.dll
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\PostalItem.pdb
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\PostalItem.genruntimeconfig.cache
+C:\Users\User\source\repos\PostalItem\PostalItem\obj\Debug\net8.0\ref\PostalItem.dll
