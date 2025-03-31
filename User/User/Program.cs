@@ -28,6 +28,6 @@ public class User
     public static void Main(string[] args)
     {
         User myUser = new User("Иванов", "Иван", "Иванович", 30);
-        Console.WriteLine(myUser); // Выведет "ФИО: Иванов Иван Иванович, Возраст: 30"
+        Console.WriteLine(myUser);
     }
 }
