@@ -31,6 +31,5 @@ public class Laptop
     {
         Laptop myLaptop = new Laptop("Dell XPS 13", 3.5, 16, 512, 1.2);
         Console.WriteLine(myLaptop.Info());
-        Console.WriteLine(myLaptop);
     }
 }
